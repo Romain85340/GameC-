@@ -1,0 +1,9 @@
+﻿<Application x:Class="Exo_WPF_philippe.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Exo_WPF_philippe"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

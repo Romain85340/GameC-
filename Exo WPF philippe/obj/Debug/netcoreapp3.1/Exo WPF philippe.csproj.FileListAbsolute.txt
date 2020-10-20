@@ -1,0 +1,19 @@
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.exe
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.deps.json
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.runtimeconfig.json
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.runtimeconfig.dev.json
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.dll
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\bin\Debug\netcoreapp3.1\Exo WPF philippe.pdb
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.csprojAssemblyReference.cache
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe_MarkupCompile.cache
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe_MarkupCompile.lref
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.g.resources
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.AssemblyInfoInputs.cache
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.AssemblyInfo.cs
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.csproj.CoreCompileInputs.cache
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.dll
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.pdb
+C:\Users\romai\source\repos\Exo WPF philippe\Exo WPF philippe\obj\Debug\netcoreapp3.1\Exo WPF philippe.genruntimeconfig.cache
